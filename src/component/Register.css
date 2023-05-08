@@ -1,0 +1,39 @@
+.register1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.register{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+}
+
+.input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 300px !important;
+}
+
+.butt{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+.home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.logout{
+    background-color: black;
+    color: white;
+  font-size: 20px;
+}
